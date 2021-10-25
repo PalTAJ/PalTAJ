@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Taj Sakeh ![Profile views](https://gpvc.arturio.dev/paltaj)
+### Hi there 👋, I'm Taj  ![Profile views](https://gpvc.arturio.dev/paltaj)
+
+
+## Data Scientist and Graduate Student at Marmara University !
 
 
 <a href="https://github.com/paltaj">
