@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Taj  ![Profile views](https://gpvc.arturio.dev/paltaj)
+### Hello Comrades, I'm Taj  ![Profile views](https://gpvc.arturio.dev/paltaj)
 
 
 ## Data Scientist!
