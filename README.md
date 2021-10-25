@@ -1,7 +1,7 @@
 ### Hello   ![Profile views](https://gpvc.arturio.dev/paltaj)
 
 
-## Data Scientist!
+<!-- ## Data Scientist! -->
 
 
 <a href="https://github.com/paltaj">
