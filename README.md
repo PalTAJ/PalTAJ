@@ -9,7 +9,7 @@
 <img align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=paltaj&hide=prs,issues,contribs&show_icons=true&hide_border=true&include_all_commits=true&theme=highcontrast&custom_title=My Github Stats"/>
 </a>
 
-- 🔭 I’m currently working on Recommendation systems, Federated Learning and Data Privacy! 
+- 🔭 I’m currently working on Computer Vision, NLP and Federated Learning! 
 
 
 <!--
