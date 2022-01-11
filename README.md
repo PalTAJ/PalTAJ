@@ -1,5 +1,5 @@
 <!-- ### Hello    -->
-![Profile views](https://gpvc.arturio.dev/paltaj)
+<!-- ![Profile views](https://gpvc.arturio.dev/paltaj) -->
 
 
 <!-- ## Data Scientist! -->
