@@ -1,10 +1,10 @@
 
 ##
 <h3> Im currently working on :
-<br> <h6> &emsp;-  Natural Inspired Algorithms
-<br> <h6> &emsp;-  Computer Vision
-<br> <h6> &emsp;-  Federated Learning
-<br> <h6> &emsp;-  ML in the Cloud (Vertex AI)
+<h6> &emsp;-  Natural Inspired Algorithms.
+<h6> &emsp;-  Computer Vision.
+<h6> &emsp;-  Federated Learning.
+<h6> &emsp;-  ML in the Cloud (Vertex AI).
 
 
 
