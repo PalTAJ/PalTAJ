@@ -1,5 +1,10 @@
 # 💫 About Me:
-Im currently working on Computer Vision, NLP and Vertex AI
+Im currently working on :
+-Natural Inspired Algorithms
+-Computer Vision
+-Federated Learning
+-ML in the Cloud (Vertex AI)
+
 
 
 
