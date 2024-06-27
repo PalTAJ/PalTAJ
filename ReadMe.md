@@ -1,9 +1,9 @@
 # 💫 About Me:
 Im currently working on :
-<br>-Natural Inspired Algorithms
-<br>-Computer Vision
-<br>-Federated Learning
-<br>-ML in the Cloud (Vertex AI)
+<br>  -Natural Inspired Algorithms
+<br>  -Computer Vision
+<br>  -Federated Learning
+<br>  -ML in the Cloud (Vertex AI)
 
 
 
