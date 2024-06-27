@@ -1,6 +1,4 @@
-## 💫 About Me:
 
-PhD In Computer Engineering | Senior Data Scientist 
 ##
 <h3> Im currently working on :
 <br> <h6> &emsp;-  Natural Inspired Algorithms
